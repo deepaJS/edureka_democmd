@@ -1,0 +1,5 @@
+integer a,b,c;
+a=10;
+b=20;
+c=a+b/2;
+susyem.debub('Average Result:' +c);
